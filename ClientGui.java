@@ -76,7 +76,7 @@ public class ClientGui extends Thread {
 //--------------------------------------------------------------------------//
 
         // WINDOW ADJUSTMENTS SETTINGS
-        jfr = new JFrame("Chat by Miroslaw, Piotr, Ahmet, Nazan, Ivan");
+        jfr = new JFrame("Chat by Miroslaw");
         jfr.getContentPane().setLayout(null);
         jfr.setSize(700, 600);
         jfr.setResizable(false);
